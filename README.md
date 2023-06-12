@@ -1,1 +1,2 @@
-# TitanicLogistisRegression
+# TitanicLogisticRegression
+Using pandas, numpy, seaborn, matplotlib, and scikit-learn, build and run a logistic regression model on various data points taken from members of the Titanic to predict which passengers survived the journey.
